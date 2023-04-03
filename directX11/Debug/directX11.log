@@ -1,2 +1,5 @@
-﻿  directX11.cpp
-  directX11.vcxproj -> D:\Visual2019\directX11\Debug\directX11.exe
+﻿  CGameFramework.cpp
+  directX11.cpp
+  코드를 생성하고 있습니다...
+CGameFramework.obj : error LNK2019: _D3D11CreateDeviceAndSwapChain@48"public: bool __thiscall CGameFramework::CreateDirect3DDisplay(void)" (?CreateDirect3DDisplay@CGameFramework@@QAE_NXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\Visual2019\directX11\Debug\directX11.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
